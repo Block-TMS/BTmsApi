@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTmsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984240452f893f51d8f75a4e746621096425d26e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTmsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTmsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

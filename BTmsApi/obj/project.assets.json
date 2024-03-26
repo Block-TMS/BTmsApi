@@ -2765,19 +2765,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/thomas/.nuget/packages/": {}
+    "/home/chris/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomas/Desktop/BTmsApi/BTmsApi/BTmsApi.csproj",
+      "projectUniqueName": "/home/chris/desktop/block-tms/BTmsApi/BTmsApi/BTmsApi.csproj",
       "projectName": "BTmsApi",
-      "projectPath": "/Users/thomas/Desktop/BTmsApi/BTmsApi/BTmsApi.csproj",
-      "packagesPath": "/Users/thomas/.nuget/packages/",
-      "outputPath": "/Users/thomas/Desktop/BTmsApi/BTmsApi/obj/",
+      "projectPath": "/home/chris/desktop/block-tms/BTmsApi/BTmsApi/BTmsApi.csproj",
+      "packagesPath": "/home/chris/.nuget/packages/",
+      "outputPath": "/home/chris/desktop/block-tms/BTmsApi/BTmsApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/thomas/.nuget/NuGet/NuGet.Config"
+        "/home/chris/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2851,6 +2851,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.1, 8.0.1]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2859,7 +2865,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
