@@ -38,7 +38,6 @@
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BTmsApi.props
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/scopedcss/bundle/BTmsApi.styles.css
-/Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/BTmsApi.csproj.CopyComplete
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/BTmsApi.dll
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/refint/BTmsApi.dll
 /Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/BTmsApi.pdb
@@ -111,3 +110,5 @@
 /Users/thomas/Desktop/BTmsApi/BTmsApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/thomas/Desktop/BTmsApi/BTmsApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/thomas/Desktop/BTmsApi/BTmsApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/BTmsApi.sourcelink.json
+/Users/thomas/Desktop/BTmsApi/BTmsApi/obj/Debug/net8.0/BTmsApi.csproj.Up2Date
